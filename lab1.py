@@ -1,6 +1,6 @@
 import requests
 
-url = 'https://facebook.com/'
+url = 'https://instagram.com/'
 
 #url = input()
 
